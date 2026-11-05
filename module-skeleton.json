@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-module-billing-core-flutter",
+  "capabilityKey": "planned:billing:module-billing-core",
+  "presentation": "mobile-flutter",
+  "package": "module_billing_module_billing_core_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-core.md",
+  "presentationPlan": "projects/billing/flutter/module-billing-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
